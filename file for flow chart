@@ -1,0 +1,16 @@
+ name = 'marry'
+ password = 'sword fish '
+
+ if password == 'sword fish':
+
+    print('acces granted')
+
+  else:
+
+    print ('access denied')
+    
+
+
+   
+
+ 
