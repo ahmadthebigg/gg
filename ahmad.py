@@ -1,1 +1,1 @@
-prin(" firts time")
+print(" firts time")
